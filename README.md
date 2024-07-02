@@ -37,7 +37,7 @@ Insert gif or link to demo
 Hey there! Just a friendly reminder to follow these steps when working on a React project:
 
 1. First, clone the project.
-2. Lastly,run index.js
+2. Lastly,run index.html
 
 Hope that helps!
 ## How to deploy
