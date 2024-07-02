@@ -14,7 +14,6 @@ Easily explore a variety of clothing items on the site.
 - #### Easy to Use: 
 Navigate effortlessly through the website to find and view different clothing options.
 
-
 ## Languages/Library
 ### Languages
 - JavaScript
@@ -26,7 +25,6 @@ Navigate effortlessly through the website to find and view different clothing op
 Insert gif or link to demo
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJzMnV0ems2MTE4eG81ZzNqancwaW90dmRhbGwyb2JmMG8xcGlldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5AswvmjjD6pr02aKK/giphy.gif)
-
 ## Deployment
 
 [Link to Deployed Application](https://dev-bhoomi.github.io/shopping-website/)
@@ -42,6 +40,9 @@ Hey there! Just a friendly reminder to follow these steps when working on a Reac
 2. Lastly,run index.js
 
 Hope that helps!
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
+
 # Hi, I'm dev-bhoomi! 👋
 
 
@@ -172,4 +173,4 @@ Install my-project with npm
 ```
     
 ## How to deploy
-[![Watch the video]
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
